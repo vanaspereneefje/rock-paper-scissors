@@ -27,19 +27,19 @@ buttonDiv.appendChild(button3);
 playerDiv.appendChild(playerButton);
 
 const imgbutton1 = new Image(); 
-imgbutton1.src = "/images/the-rock.jpg"; 
+imgbutton1.src = "./images/the-rock.jpg"; 
 imgbutton1.alt = "The Rock"; 
 imgbutton1.classList.add("rps-image");
 button1.appendChild(imgbutton1); 
 
 const imgbutton2 = new Image(); 
-imgbutton2.src = "/images/map-paper.jpg"; 
+imgbutton2.src = "./images/map-paper.jpg"; 
 imgbutton2.alt = "the map from Dora"; 
 imgbutton2.classList.add("rps-image");
 button2.appendChild(imgbutton2); 
 
 const imgbutton3 = new Image(); 
-imgbutton3.src = "/images/edward-scissors.jpg"; 
+imgbutton3.src = "./images/edward-scissors.jpg"; 
 imgbutton3.alt = "Edward Scissorhands"; 
 imgbutton3.classList.add("rps-image");
 button3.appendChild(imgbutton3); 

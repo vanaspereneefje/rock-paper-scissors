@@ -3,7 +3,7 @@
 }
 
 body {
-    background-image: url("/images/webs.jpg");
+    background-image: url("images/webs.jpg");
     background-size: cover;
 }
 
